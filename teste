@@ -42,6 +42,7 @@ Que não devemos realizar commit, ou seja, salvar um estado, da nossa aplicaçã
 
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,7 +54,7 @@ Que não devemos realizar commit, ou seja, salvar um estado, da nossa aplicaçã
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansible</li>
-        <li>Integração Continua</ltiff
+        <li>Integra Continua maturidade e Produtividade </ltiff
     </ul>
 </body>
 </html>
