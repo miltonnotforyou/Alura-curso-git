@@ -22,6 +22,26 @@ Apesar de ser fácil, este comando é muito poderoso. Execute git log --help e v
 
 Sair da tela de scroll
 Você deve ter reparado que ao executar git log -p, o git nos mostrou uma tela onde é possível rolar para baixo e para cima através das setas. Isso não é algo específico do git, mas sim do próprio terminal do sistema operacional. Quando finalizarmos a visualização do log, basta apertar a tecla q para voltar "ao normal" em nossa linha de comando. :-D
+
+
+O que aprendemos?
+PRÓXIMA ATIVIDADE
+
+Nesta aula, aprendemos:
+
+Que um commit é a forma de salvar um estado ou versão do nosso código;
+Como adicionar arquivos para serem commitados com git add;
+Como commitar arquivos, utilizando o comando git commit;
+Como verificar o histórico de commits, através do git log e algumas de suas opções:
+git log --oneline
+git log -p
+git log --pretty="parametros de formatação"
+Como fazer o Git não monitorar arquivos, através do .gitignore
+Que não devemos realizar commit, ou seja, salvar um estado, da nossa aplicação que não esteja funcionando.
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
