@@ -1,3 +1,27 @@
+Para saber mais: git status
+PRoXIMA ATIVIDADE
+
+Ao executar o comando git status, recebemos algumas informações que talvez não estejam tão claras, principalmente quando nos deparamos com termos como HEAD, working tree, index, etc.
+
+Apenas para esclarecer um pouco, visto que entenderemos melhor o funcionamento do Git durante o treinamento, seguem algumas definições interessantes:
+
+HEAD: Estado atual do nosso código, ou seja, onde o Git os colocou
+Working tree: Local onde os arquivos realmente estão sendo armazenados e editados
+index: Local onde o Git armazena o que será commitado, ou seja, o local entre a working tree e o repositório Git em si.
+Além disso, os possíveis estados dos nossos arquivos são explicados com detalhes neste link: <https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio.
+
+Acredite, embora pareça confuso agora, durante o treinamento tudo fará muito mais sentido! :-D
+
+Para saber mais: git log
+PRÓXIMA ATIVIDADE
+
+Mais opções
+Conforme vimos no último vídeo, podemos visualizar o histórico de alterações em nosso projeto de forma muito fácil, através do comando git log.
+
+Apesar de ser fácil, este comando é muito poderoso. Execute git log --help e veja algumas das opções possíveis. Para alguns exemplos mais fáceis de entender, você pode pesquisar sobre git log ou dar uma olhada neste link: https://devhints.io/git-log.
+
+Sair da tela de scroll
+Você deve ter reparado que ao executar git log -p, o git nos mostrou uma tela onde é possível rolar para baixo e para cima através das setas. Isso não é algo específico do git, mas sim do próprio terminal do sistema operacional. Quando finalizarmos a visualização do log, basta apertar a tecla q para voltar "ao normal" em nossa linha de comando. :-D
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +33,7 @@
         <li>Vagrant</li>
         <li>Docker</li>
         <li>Ansible</li>
-        <li>Integração Continua</li>
+        <li>Integração Continua</ltiff
     </ul>
 </body>
 </html>
