@@ -135,19 +135,3 @@ Execute o comando git push local master para enviar as suas alterações;
 32) Execute o comando git pull local master para trazer as alterações da outra pessoa;
 
 33) Agora sim, execute o comando git push local master para enviar as alterações.
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Cursos da Alura</title>
-</head>
-<body>
-    <ul>
-        <li>Vagrant</li>
-        <li>Docker</li>
-        <li>Ansible</li>
-        <li>Integra Continua maturidade e Produtividade </ltiff
-    </ul>
-</body>
-</html>
