@@ -51,18 +51,4 @@ testando conflito
 testando conflito ana
 >>>>>>> 7157568f3e8acc0437bb9ae97f3dfc015e111f5a
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Cursos da Alura</title>
-</head>
-<body>
-    <ul>
-        <li>Vagrant</li>
-        <li>Docker</li>
-        <li>Ansible</li>
-        <li>Integra Continua maturidade e Produtividade </ltiff
-    </ul>
-</body>
-</html>
+
