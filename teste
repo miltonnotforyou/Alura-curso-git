@@ -39,7 +39,7 @@ git log --pretty="parametros de formatação"
 Como fazer o Git não monitorar arquivos, através do .gitignore
 Que não devemos realizar commit, ou seja, salvar um estado, da nossa aplicação que não esteja funcionando.
 
-teste branch
+teste branch 2
 
 
 
