@@ -45,7 +45,11 @@ teste branch 2
 teste branch
 >>>>>>> e49336e (teste branch)
 
+<<<<<<< HEAD
 testando conflito 
+=======
+testando conflito ana
+>>>>>>> 7157568f3e8acc0437bb9ae97f3dfc015e111f5a
 
 <!DOCTYPE html>
 <html lang="en">
