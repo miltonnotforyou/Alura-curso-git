@@ -1,6 +1,8 @@
 # Alura-curso-git
 Repositório para guardar arquivos curso da Alura
 
+![20180412-git-flow](https://user-images.githubusercontent.com/67373586/207925763-15b172d2-d0d7-4ace-9d9c-221c86dd1bfb.png)
+
 Neste curso de Git e GitHub, uma introdução a tudo que a ferramenta de controle de versões pode nos oferecer.
 
 Para darmos uma recapitulada, primeiro entendemos o conceito de repositório, o qual inicializamos na pasta do nosso projeto utilizando git init. Depois, vimos que com git status conseguimos verificar as alterações já foram realizadas em nosso código, se existe algum arquivo para ser adicionado, ou commitado, algum arquivo que ainda não é trackeado ou monitorado, e assim por diante.
