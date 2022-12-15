@@ -2,6 +2,13 @@
 Repositório para guardar arquivos curso da Alura
 <br>
 
+Um pouco do processo chamado de Git Flow:
+Entendemos que o estado do código representado pela branch master deve ser o mesmo que estará em produção
+Vimos que deve haver uma branch de desenvolvimento (comumente chamado de develop), onde todas as funcionalidades e correções devem ser muito bem testadas antes de ir para produção (master)
+Vimos que cada funcionalidade deve ser feita em uma branch separada, e que é comum que esta branch tenha feature/ como prefixo
+Aprendemos também que bugs normalmente são corrigidos em branches separadas, com o prefixo hotfix/
+Além disso, branches específicas para cada release são criadas para realizar os testes e correções de bugs específicos
+
 ![20180412-git-flow](https://user-images.githubusercontent.com/67373586/207925763-15b172d2-d0d7-4ace-9d9c-221c86dd1bfb.png)
 
 <br>
