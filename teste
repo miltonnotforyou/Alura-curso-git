@@ -39,6 +39,19 @@ git log --pretty="parametros de formatação"
 Como fazer o Git não monitorar arquivos, através do .gitignore
 Que não devemos realizar commit, ou seja, salvar um estado, da nossa aplicação que não esteja funcionando.
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+teste branch 2
+=======
+teste branch
+>>>>>>> e49336e (teste branch)
+
+<<<<<<< HEAD
+testando conflito 
+=======
+testando conflito ana
+>>>>>>> 7157568f3e8acc0437bb9ae97f3dfc015e111f5a
+=======
 Nesta aula, aprendemos:
 
 O que são repositórios remotos;
@@ -99,9 +112,12 @@ Execute o comando git checkout master para voltar à linha de desenvolvimento ma
 19) Execute o comando git log --graph para ver as linhas de desenvolvimento (branches);
 
 20) Execute git checkout titulo para trabalhar na branch chamada titulo;
+>>>>>>> b6e92969a173f34a8956b73948d1aac809aa71ea
 
 21) Altere o título para ter a palavra "Cursos" com letra maiúscula;
 
+<<<<<<< HEAD
+=======
 22) Repita os passos 6 e 7 para adicionar um novo commit, alterando a mensagem;
 
 23) Execute o comando git checkout master para voltar à linha de desenvolvimento master;
@@ -169,3 +185,6 @@ Como trazer os commits de uma branch para outra, com o git rebase
 Que o git rebase não gera um commit de merge, simplificando o nosso log;
 Como os conflitos são apresentados pelo Git;
 Como resolver os conflitos e manter apenas as alterações desejadas com o Git.
+>>>>>>> b6e92969a173f34a8956b73948d1aac809aa71ea
+
+unindo commits 2.0
